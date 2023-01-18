@@ -2,6 +2,8 @@
 
 Desafio concluído do FrontEnd Mentor
 
+Acesse a página: https://levy-jr.github.io/landing-page-for-a-sunnyside-agency/
+
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
 <p align="center">
