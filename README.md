@@ -1,6 +1,8 @@
 # Landing page para uma agência de sol
 
-Desafio concluído do FrontEnd Mentor
+Desafio concluído do Frontend Mentor
+
+Acesse a página: https://levy-jr.github.io/landing-page-for-a-sunnyside-agency/
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
