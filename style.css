@@ -13,8 +13,8 @@
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
-ul[role='list'],
-ol[role='list'] {
+ul,
+ol{
   list-style: none;
 }
 
@@ -477,8 +477,11 @@ a{
 
 @media (min-width: 37.5em){
   .button:hover{
-    color: var(--White);
     background-color: rgba(255, 255, 255, 0.3);
+  }
+
+  .button:hover > a {
+    color: var(--White);
   }
 }
 
@@ -509,6 +512,10 @@ a{
   background-color: var(--White);
   font-weight: var(--fw-primary);
   padding: .8em 1.3em;
+}
+
+.contact a {
+  color: #000;
 }
 
 @media (max-width: 37.5em){
