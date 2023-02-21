@@ -478,9 +478,6 @@ a{
 @media (min-width: 37.5em){
   .button:hover{
     background-color: rgba(255, 255, 255, 0.3);
-  }
-
-  .button:hover > a {
     color: var(--White);
   }
 }
@@ -512,9 +509,6 @@ a{
   background-color: var(--White);
   font-weight: var(--fw-primary);
   padding: .8em 1.3em;
-}
-
-.contact a {
   color: #000;
 }
 
